@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+/*Este codigo calcula a transformação de Celsius para Fahrenheit e vice-versa, baseado no valor fornecido pelo usuário*/
 int main()
 {
     int CorF;
