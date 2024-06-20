@@ -20,6 +20,8 @@ int main()
         scanf("%f",&Fahrenheit);
         float cel = (Fahrenheit - 32)*5/9;
         printf("A transformação em Fahrenheit para Celsius é:%.2f", cel);
+    }else{
+        printf("Valor invalido.")
     }
     return 0;
 }
