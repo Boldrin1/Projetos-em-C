@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/*Esse codigo realiza a soma de 10 valores forncidos pelo usuario e, mostra qual é o maior e qual é o menor.*/
+
 int main()
 {
     int i;

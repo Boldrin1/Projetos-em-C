@@ -1,4 +1,7 @@
 #include <stdio.h>
+
+/*Esse codigo realiza o fatorial do codigo fornecido pelo usuario.*/
+
 int main() {
     int n,i;
     int result = 1;

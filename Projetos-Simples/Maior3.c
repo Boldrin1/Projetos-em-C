@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/*Esse codigo verefica o maior valor de 3 entradas*/
+
 int main()
 {
     int a,b,c;

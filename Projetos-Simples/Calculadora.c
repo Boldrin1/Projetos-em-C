@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 
+/*Esse codigo realiza operações matematicas basicas de acordo com os valores fornecidos pelo usuario.*/
+
 int main()
 {
     int a,b,c;

@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/*Esse codigo calcula o MDC, de acrodo com os valor fornecido pelo usuario.*/
+
 int mdc(int um, int dois){
     int resto;
     do{
